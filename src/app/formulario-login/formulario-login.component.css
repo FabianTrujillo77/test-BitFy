@@ -1,0 +1,12 @@
+.container{
+    width: 60%;
+
+}
+
+.formulario{
+    
+    width: 60%;
+    margin: auto;
+    border: 1px solid black;
+    padding: 40px;
+}

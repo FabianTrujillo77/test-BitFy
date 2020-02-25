@@ -1,0 +1,27 @@
+.container-fluit{
+background-image: linear-gradient(45deg, #083672c7, #00000086, rgba(255, 252, 252, 0.527),rgba(252, 45, 13, 0.705));
+}
+
+.usuario{
+    display: flex;
+    justify-content: flex-end;
+}
+img{
+    width: 30%;
+    height: 20vh;
+}
+.avatar{
+    border-radius: 100%;
+}
+.main{
+    border: 1px solid black;
+    width: 70%;
+}
+.bienvenido{
+font-size: 50px;
+text-align: left;
+}
+.escucha{
+font-size: 40px;
+text-align: center;
+}

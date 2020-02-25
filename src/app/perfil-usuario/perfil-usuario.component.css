@@ -1,0 +1,12 @@
+.list-group{
+    width: 80%;
+}
+.asidenav{
+    padding: 30px;
+    min-height: 100vh;
+    background-image: linear-gradient(20deg,red, yellow, orange,green,blue);
+}
+.genero1{
+    display: flex;
+    justify-content: space-around;
+}
